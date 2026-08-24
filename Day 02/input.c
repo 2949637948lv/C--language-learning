@@ -2,7 +2,6 @@
 
 int main()
 {   
-	system("chcp 65001");
 	char i[100];
 	int j = 0; 
 	
