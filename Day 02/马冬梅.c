@@ -4,7 +4,6 @@ int main()
 {
     char i[100];
     char j[100];
-    char k[100];
 
     printf("甲：大爷，楼上住的是马冬梅家吧？\n");
     printf("乙：马冬什么？\n"
