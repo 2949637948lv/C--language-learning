@@ -2,7 +2,6 @@
 
 int main()
 {
-	SetConsoleOutputCP(65001);
 	int i = 0;
 	int j = 0;
 	
