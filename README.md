@@ -16,7 +16,7 @@
 
 -视频教程：翁恺 C 语言程序设计
 
--编程环境：小熊猫Dev-C++（UTF-8编译）
+-编程环境：Visual Studio Code
 
 -代码管理：Github Desktop
 
